@@ -1,7 +1,7 @@
 # UnityAdsTest
 Test if ads are working for you in an Unity-made app.
 
-You are free to publish this application anywhere, if it meets theese requirements:
+You are free to publish this application anywhere, as long as it meets theese requirements:
 1. Do not use the apk file we provided on the releases page, as it is unmodified. You have to modify it and build from the source as written in the other requirements.
 3. The app should mention us the creators, CloverGO.
 4. You should change the name, the company, and the package ID of the app, and make at some (least one) changes to the app, like new features.
